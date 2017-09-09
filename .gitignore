@@ -1,8 +1,8 @@
-// Don't commit .config files and directions
+// Don't commit .config files and directories
 .config
-
-// Don't commit node_modules
-node_modules
 
 // Don't commit environment files
 .env
+
+// Don't commit Node.js modules
+node_modules
